@@ -1,0 +1,51 @@
+#America
+
+ROC = "countries/Republic of Canada.txt" 
+USS = "countries/United states of america.txt" 
+BRS = "countries/Brazil.txt" 
+ARR = "countries/Argentina.txt" 
+MCH = "countries/Mexico.txt"
+BOO = "countries/Greater Bolivia.txt"
+CLL = "countries/Republic of Chile.txt"
+PEE = "countries/Republic of Peru.txt"
+COO = "countries/Gran Colombia.txt"
+HTT = "countries/Republic of Haiti.txt"
+
+
+#Europe
+
+SWN = "countries/Scandinavian Union.txt"
+RUE = "countries/Russian Empire.txt"
+NEM = "countries/Socialist Republic of Germany.txt"
+GKE = "countries/Kingdom of Greece.txt"
+BGA = "countries/Third Bulgarian Empire.txt"
+DAN = "countries/Kingdom of Denmark.txt"
+SEB = "countries/Peoples Republic of Serbia.txt"
+FRE = "countries/National State of France.txt"
+ITE = "countries/Kingdom of Italy.txt"
+AUU = "countries/Second Austrian Empire.txt"
+SZW = "countries/Alpine Empire.txt"
+ESP = "countries/Socialist Republic of Spain.txt"
+PRT = "countries/Portuguese Empire.txt"
+UKA = "countries/United Kingdom.txt" 
+NTH = "countries/Kingdom of the Netherlands.txt"
+RUM = "countries/Romania.txt"
+PRL = "countries/Peoples Republic of Poland.txt"
+UAA = "countries/Ukraine.txt"
+HUU = "countries/United Socialist States of Hungary.txt"
+CZZ = "countries/Kingdom of Czechoslovakia.txt"
+ALL = "countries/Albania.txt"
+LUU = "countries/Republic of Luxembourg.txt"
+LII = "countries/Republic of Finland.txt"
+FII = "countries/Lithuanian Commonwealth.txt"
+
+
+#Africa
+
+
+LBB = "countries/Republic of Liberia.txt"
+EAU = "countries/East African Union.txt"
+EGG = "countries/Kingdom of Egypt.txt"
+GHH = "countries/Republic of Ghana.txt"
+RPA = "countries/South African Union.txt"
+PPN = "countries/Peoples Republic of Nigeria.txt"

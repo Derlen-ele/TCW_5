@@ -1,0 +1,177 @@
+#reload countrycolors
+
+#Americas
+
+ROC = {
+	color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 }
+}
+USS = {
+	color = rgb { 79 160 240 }
+	color_ui = rgb { 79 160 240 }
+}
+BRS = {
+	color = rgb { 0 109 44 }
+	color_ui = rgb { 0 109 44 }
+}
+ARR = {
+	color = rgb { 76 145 191 }
+	color_ui = rgb { 76 145 191 }
+}
+MCH = {
+	color = rgb { 77 175 74 }
+	color_ui = rgb { 77 175 74 }
+}
+BOO = {
+	color = rgb { 234 123 97 }
+	color_ui = rgb { 234 123 97 }
+}
+CLL = {
+	color = rgb { 52 152 83 }
+	color_ui = rgb { 52 152 83 }
+}
+PEE = {
+	color = rgb { 248 246 248 }
+	color_ui = rgb { 248 246 248 }
+}
+COO = {
+	color = rgb { 246 180 114 }
+	color_ui = rgb { 246 180 114 }
+}
+HTT = {
+	color = rgb { 153 53 184 }
+	color_ui = rgb { 153 53 184 }
+}
+
+
+#Europe
+
+
+SWN = {
+	color = rgb { 33 103 173 }
+	color_ui = rgb { 33 103 173 }
+}
+RUE = {
+	color = rgb { 0 128 0 }
+	color_ui = rgb { 0 128 0 }
+}
+AUU = {
+	color = rgb { 246 252 252 }
+	color_ui = rgb { 246 252 252 }
+}
+SEB = {
+	color = rgb { 220 21 21 }
+	color_ui = rgb { 220 21 21 }
+}
+FRE = {
+	color = rgb { 43 141 191 }
+	color_ui = rgb { 43 141 191 }
+}
+RUM = {
+	color = rgb { 254 217 118 }
+	color_ui = rgb { 254 217 118 }
+}
+NEM = {
+	color = rgb { 120 110 110 }
+	color_ui = rgb { 120 110 110 }
+}
+UKA = {
+	color = rgb { 205 50 51 }
+	color_ui = rgb { 205 50 51 }
+}
+PRT = {
+	color = rgb { 15 133 84 }
+	color_ui = rgb { 15 133 84 }
+}
+DAN = {
+	color = rgb { 166 87 41 }
+	color_ui = rgb { 166 87 41 }
+}
+ITE = {
+	color = rgb { 37 181 11 }
+	color_ui = rgb { 37 181 11 }
+}
+ESP = {
+	color = rgb { 236 172 8 }
+	color_ui = rgb { 236 172 8 }
+}
+NTH = {
+	color = rgb { 254 126 0 }
+	color_ui = rgb { 254 126 0 }
+}
+BGA = {
+	color = rgb { 35 138 68 }
+	color_ui = rgb { 35 138 68 }
+}
+SZW = {
+	color = rgb { 229 27 28 }
+	color_ui = rgb { 229 27 28 }
+}
+GKE = {
+	color = rgb { 66 147 194 }
+	color_ui = rgb { 66 147 194 }
+}
+
+PRL = {
+	color = rgb { 240 141 209 }
+	color_ui = rgb { 240 141 209 }
+}
+
+UAA = {
+	color = rgb { 85 104 235 }
+	color_ui = rgb { 85 104 235 }
+}
+
+HUU = {
+	color = rgb { 250 213 142 }
+	color_ui = rgb { 250 213 142 }
+}
+CZZ = {
+	color = rgb { 32 165 245 }
+	color_ui = rgb { 32 165 245 }
+}
+ALL = {
+	color = rgb { 194 18 18 }
+	color_ui = rgb { 194 18 18 }
+}
+LUU = {
+	color = rgb { 232 28 28 }
+	color_ui = rgb { 232 28 28 }
+}
+LII = {
+	color = rgb { 250 193 127 }
+	color_ui = rgb { 250 193 127 }
+}
+FII = {
+	color = rgb { 237 237 237 }
+	color_ui = rgb { 237 237 237 }
+}
+
+
+#Africa
+
+
+LBB = {
+	color = rgb { 12 38 207 }
+	color_ui = rgb { 12 38 207 }
+}
+GHH = {
+	color = rgb { 159 230 51 }
+	color_ui = rgb { 159 230 51 }
+}
+EGG = {
+	color = rgb { 240 222 34 }
+	color_ui = rgb { 240 222 34 }
+}
+EAU = {
+	color = rgb { 228 136 25 }
+	color_ui = rgb { 228 136 25 }
+}
+RPA = {
+	color = rgb { 46 105 31 }
+	color_ui = rgb { 46 105 31 }
+}
+PPN = {
+	color = rgb { 135 77 209 }
+	color_ui = rgb { 135 77 209 }
+}
