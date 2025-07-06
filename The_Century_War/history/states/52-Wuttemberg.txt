@@ -1,0 +1,40 @@
+state={
+	id=52
+	name="STATE_52"
+	resources={
+		aluminium=18.000
+	}
+	
+	history = {
+
+		owner = NEM
+		add_core_of = NEM
+		add_core_of = BAY
+
+		
+		victory_points = {
+			708 3 # Augsburg
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 6
+		}
+
+		1939.1.1 = {
+			buildings = {
+				air_base = 10
+			}
+		}
+	}
+	
+	provinces={
+		708 3705 6540 9666 
+	}
+	manpower=2679413
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

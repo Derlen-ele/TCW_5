@@ -1,0 +1,30 @@
+state={
+	id=722
+	name="STATE_722"
+	
+	history={
+		owner = FII
+
+		victory_points = { #Petsamo
+			9140 1
+		}
+
+		buildings = {
+			infrastructure = 1 #MM: Was 2
+			9140 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FII
+		add_core_of = SMI
+
+	}
+	
+	provinces={
+		15 74 142 6012 6117 6183 9123 9140 9203 11142 11183 
+	}
+	manpower=2371
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

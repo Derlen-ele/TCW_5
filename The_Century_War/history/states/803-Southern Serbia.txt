@@ -1,0 +1,29 @@
+state={
+	id=803
+	name="STATE_803"
+	
+	history={
+		victory_points = {
+			11857 1 
+		}
+		victory_points = {
+			9849 2 
+		}
+		owner = BGA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_claim_by = SEB
+
+	}
+	
+	
+	provinces={
+		9756 9849 9874 9906 11832 11857 11868 11887 
+	}
+	manpower=210000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

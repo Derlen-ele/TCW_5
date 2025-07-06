@@ -1,0 +1,29 @@
+state={
+	id=147
+	name="STATE_147"
+	
+	history = {	
+		owner = FII
+
+		buildings = {
+			infrastructure = 1 
+		}
+
+		add_core_of = FII
+		add_core_of = KAR
+		add_core_of = SMI
+		
+		victory_points = { #Salla
+			197 1
+		}
+
+	}
+	
+	provinces={
+		36 80 134 157 197 2998 3067 3071 6096 6098 6175 9074 9119 9158 9198 11054 11085 11096 11146 11181 
+	}
+	manpower=4630
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=53
+	name="STATE_53"
+	
+	history = {
+
+		owner = NEM
+		add_core_of = NEM
+		add_core_of = BAY
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		
+		victory_points = {
+			9515 3 # Regensburg
+		}
+	}
+	
+	provinces={
+		571 586 3299 3541 3571 9515 11497 
+	}
+	manpower=1453365
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=7.000
+}

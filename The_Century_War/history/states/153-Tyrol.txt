@@ -1,0 +1,35 @@
+state={
+	id=153
+	name="STATE_153"
+	
+	history={
+		owner = AUU
+		victory_points = {
+			673 5 
+		}
+		
+		victory_points = {
+			692 20 # Munich
+		}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = AUU
+		1938.3.12 = {
+			owner = NEM
+			controller = NEM
+			add_core_of = NEM
+		}
+	}
+	
+	provinces={
+		668 671 673 692 707 3675 3688 6673 6693 9633 9636 9652 11618 11620 11634 11638 11653 
+	}
+	manpower=1500986
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=12.000
+}
