@@ -1,0 +1,5 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_ideology_volkism_group 
+        texturefile = gfx/interface/ideologies/volkism_group.dds
+    }
