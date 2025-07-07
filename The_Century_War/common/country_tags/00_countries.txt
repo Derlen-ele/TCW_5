@@ -49,3 +49,8 @@ EGG = "countries/Kingdom of Egypt.txt"
 GHH = "countries/Republic of Ghana.txt"
 RPA = "countries/South African Union.txt"
 PPN = "countries/Peoples Republic of Nigeria.txt"
+
+#Oceania
+
+
+AUZ = "countries/Peoples Democratic Republic of Australia.txt"

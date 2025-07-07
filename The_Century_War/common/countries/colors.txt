@@ -175,3 +175,11 @@ PPN = {
 	color = rgb { 135 77 209 }
 	color_ui = rgb { 135 77 209 }
 }
+
+
+#Oceania
+
+AUZ = {
+	color = rgb { 163 44 201 }
+	color_ui = rgb { 163 44 201 }
+}
